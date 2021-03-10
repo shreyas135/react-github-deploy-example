@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <p>
-        React Build on Github Example
+        Deply React Code On GitHub Pages
         </p>
     </div>
   );
